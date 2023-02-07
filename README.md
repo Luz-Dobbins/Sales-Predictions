@@ -2,20 +2,30 @@
 
 Luz Dobbins
 
-IN [ ]: >>
+IN [ ]:
+
+>
 
 ## Loading Data
 
-IN [ ]: <--                                                                                                                                    -->
+IN [ ]: 
+
+>
 
 ## Data Cleaning
 
 IN [ ]: 
 
+>
+
 ## Exploratory Data
 
 IN [ ]:
 
+>
+
 ## Explanatory Data
 
 IN [ ]:
+
+>
