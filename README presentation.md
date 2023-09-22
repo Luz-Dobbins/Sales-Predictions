@@ -3,21 +3,20 @@
 </p>
 
 # Sales-Predictions
-## Analysis of visibilities affects on item sales.
-
 Luz Dobbins
+## Analysis of visibilities affects on item sales.
+ ### We often go to store and just grab the first thing we see. By looking at the data we can see how well can item does in that prime realistate and should focus on that resource. also, How much does the weight of an product affect it's visibility.
 
 
-###We often go to store and just grab the first thing we see. By looking at the data we can see how well can item does in that prime realistate and should focus on that resource. also, How much does the weight of an product affect it's visibility.
 
 
-## Exploratory Data
- While exploring the data it seemed that we have not done much to improve visibility of our products. Last time changed happened was in 1998. 
+
+ ### Data shows that we have not done much to improve the visibility of our products. Last time changed happened was in 1998. 
  <p align = "center"> 
   <img src = "https://github.com/Luz-Dobbins/Sales-Predictions/blob/main/item%20vibility%20though%20the%20years.jpg">
 </p>
  
- It would also help if we moved higher priced items to different shelving or set up display cases at the end of the isles.
+ ### It would also help if we moved higher priced items to different shelving or set up display cases at the end of the isles.
  
  <p align = "center"> 
   <img src = "https://github.com/Luz-Dobbins/Sales-Predictions/blob/main/weight%20vs%20visibility.jpg">
