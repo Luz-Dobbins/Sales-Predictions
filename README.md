@@ -7,9 +7,8 @@ Luz Dobbins
 ## Analysis of visibilities affects on item sales.
 ### We often go to the store and just grab the first thing we see. By looking at the data we can see how well an item does in that prime real estate and should focus on that resource. also, How much does the weight of a product affect it's visibility?
 
-<p align = "center"> 
- <img src = "https://github.com/Luz-Dobbins/Sales-Predictions/assets/123646377/ee1fe787-e850-4330-af43-12c3074b87c7.png" width="400" height="300">
-</p>
+![image](https://github.com/Luz-Dobbins/Sales-Predictions/assets/123646377/06537f1e-23d6-467e-b129-5246548b0ba3)
+
 
  ### It would also help if we moved higher priced items to different shelving or set up display cases at the end of the isles.
 
